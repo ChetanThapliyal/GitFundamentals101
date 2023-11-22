@@ -52,3 +52,5 @@
 
 ### Inspection & Comparison
 | Command | Description |
+| ------- | ----------- |
+| `git log` | View changes |
