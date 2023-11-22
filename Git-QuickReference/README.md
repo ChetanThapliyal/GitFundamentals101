@@ -51,3 +51,4 @@
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
 
 ### Inspection & Comparison
+| Command | Description |
