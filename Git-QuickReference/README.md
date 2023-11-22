@@ -54,3 +54,4 @@
 | Command | Description |
 | ------- | ----------- |
 | `git log` | View changes |
+| `git log --summary` | View changes (detailed) |
