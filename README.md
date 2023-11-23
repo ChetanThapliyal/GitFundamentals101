@@ -19,7 +19,7 @@ To get started with Git, you'll need to [install Git](https://git-scm.com/) on y
 - **Collaboration:** Dive into collaborating with others using Git and GitHub.
 
 ## Resources
-
+### Hands on / interactive learning
 
 
 ## How to Use This Repository
