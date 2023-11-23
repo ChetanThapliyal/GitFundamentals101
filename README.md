@@ -18,6 +18,10 @@ To get started with Git, you'll need to [install Git](https://git-scm.com/) on y
 - **Branching and Merging:** Explore branching strategies and merging changes effectively.
 - **Collaboration:** Dive into collaborating with others using Git and GitHub.
 
+## Resources
+
+
+
 ## How to Use This Repository
 
 Each section contains detailed explanations and hands-on exercises to reinforce your understanding. Feel free to explore, experiment, and apply your learning in real projects.
