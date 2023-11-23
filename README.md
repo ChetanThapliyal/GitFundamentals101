@@ -26,7 +26,8 @@ To get started with Git, you'll need to [install Git](https://git-scm.com/) on y
 * * [Git-it](http://nodeschool.io/#git-it) Interactive software you run from the Terminal (requires installing node.js and nmp).
 
 ### Purely text based resources
-
+* [Git: No Deep Sh*t](http://rogerdudler.github.io/git-guide/) A super simplified way of explaining git, basically a cheatsheet.
+* 
 
 ## How to Use This Repository
 
