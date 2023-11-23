@@ -20,7 +20,8 @@ To get started with Git, you'll need to [install Git](https://git-scm.com/) on y
 
 ## Resources
 ### Hands on / interactive learning
-
+* [Learn Version Control with Git](https://www.git-tower.com/learn/ebook) A website for learning Git. Appears to cost money but has a free html book.
+* * [Git Immersion](http://gitimmersion.com/lab_01.html) A website with tutorial materials you download and follow along with.
 
 ## How to Use This Repository
 
