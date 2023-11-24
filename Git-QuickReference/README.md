@@ -68,3 +68,4 @@
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 ### Redo Commits
+| `git reset [commit]` | Undoes all commits after [commit], preserving changes locally |
