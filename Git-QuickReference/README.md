@@ -70,3 +70,4 @@
 ### Redo Commits
 | `git reset [commit]` | Undoes all commits after [commit], preserving changes locally |
 | `git reset --hard [commit]` | Discards all history and changes back to the specified commit |
+| `git reset --hard HEAD^` | Resets to the previous commit before the current head |
