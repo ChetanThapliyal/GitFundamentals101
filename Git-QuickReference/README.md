@@ -9,6 +9,9 @@
 | `.gitgnore` | Special file that ignores commits for directories and files named in it |
 | `git status` | Shows which files are in the staging area/working directory |
 
+### Configure Tooling
+
+
 
 
 ### Basic Snapshotting
