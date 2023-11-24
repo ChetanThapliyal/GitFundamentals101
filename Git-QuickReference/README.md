@@ -7,7 +7,9 @@
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 | `.gitgnore` | Special file that ignores commits for directories and files named in it |
- 
+| `git status` | Shows which files are in the staging area/working directory |
+
+
 
 ### Basic Snapshotting
 
