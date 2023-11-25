@@ -75,3 +75,4 @@
 ### Adding a Git Remote
 
 | `git remote add [remote-name][remote-url]` |  |
+| `git remote -v` | Verify the remote connections |
