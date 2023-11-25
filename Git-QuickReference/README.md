@@ -73,3 +73,5 @@
 | `git reset --hard HEAD^` | Resets to the previous commit before the current head |
 
 ### Adding a Git Remote
+
+| `git remote add [remote-name][remote-url]` |  |
