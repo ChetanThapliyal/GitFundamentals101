@@ -1,4 +1,4 @@
-# A list of my commonly used Git commands
+# Git commands
 
 ### Getting & Creating Projects
 
